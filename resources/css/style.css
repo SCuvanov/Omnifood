@@ -350,6 +350,5 @@ ion-icon {
 .city-feature ion-icon {
 	float: left;
 	font-size: 125%;
-	padding-right: 10px;
-
+	margin-right: 10px;
 }
