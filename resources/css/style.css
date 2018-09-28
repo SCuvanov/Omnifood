@@ -405,3 +405,65 @@ cite img {
 	vertical-align: middle;
 }
 
+/*------------------------------------------*/
+/* PRICING */
+/*------------------------------------------*/
+
+.section-plans {
+   background-color: #f4f4f4; 
+}
+
+.plan-box {
+    background-color: #FFF;
+    border-radius: 5px;
+    margin-left: 5%;
+    width: 90%;
+    box-shadow: 0 2px 2px #ededed;
+}
+
+.plan-box div {
+    padding: 15px;
+    border-bottom: 1px solid #efefef;
+}
+
+.plan-box div:first-child {
+    background-color: #fcfcfc;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.plan-box div:last-child {
+    text-align: center;
+    border: none;
+}
+
+.plan-price {
+    font-size: 250%;
+    font-weight: 100;
+    margin-bottom: 10px;
+    color: #e67e22;
+}
+
+.plan-price span {
+    font-size: 50%;
+    font-weight: 300;
+}
+
+.plan-price-meal {
+    font-size: 80%;
+}
+
+.plan-details ul {
+    list-style-type: none;
+}
+
+.plan-details ul li {
+    padding: 5px 0;
+    color: #555;
+}
+
+.plan-details ul li ion-icon {
+    font-size: 100%;
+    float: left;
+    margin-right: 5px;
+}
